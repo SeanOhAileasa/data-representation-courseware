@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- COMMENT: declaration -->
+<Catalogue> <!-- COMMENT: root element - START -->
+    <Book category="Technical"> <!-- COMMENT: <Catalogue> child element - attribute category - 1 - START -->
+        <ISBN>1593279280</ISBN> <!-- COMMENT: <Book> child element - START/END -->
+        <Title>Python Crash Course</Title>
+        <Author>E. Matthes</Author>
+    </Book> <!-- COMMENT: <Catalogue> child element - 1 - END -->
+    <Book category="Technical"> <!-- COMMENT: <Catalogue> child element - attribute category - 2 - START -->
+        <ISBN>0471257095</ISBN> <!-- COMMENT: <Book> child element - START/END -->
+        <Title>An Introduction to Probability Theory and Its Applications</Title>
+        <Author>W. Feller</Author>  
+    </Book> <!-- COMMENT: <Catalogue> child element - 2 - END -->
+    <Book category="Cookery"> <!-- COMMENT: <Catalogue> child element - attribute category - 1 - START -->
+        <ISBN>1911632779</ISBN> <!-- COMMENT: <Book> child element - START/END -->
+        <Title>Japanese Food Made Easy</Title>
+        <Author>A. Nishimura</Author>  
+    </Book> <!-- COMMENT: <Catalogue> child element - 1 - END -->
+    <Book category="Cookery"> <!-- COMMENT: <Catalogue> child element - attribute category - 2 - START -->
+        <ISBN>1849758840</ISBN> <!-- COMMENT: <Book> child element - START/END -->
+        <Title>Sushi Made Simple</Title>
+        <Author>A. Ikeda</Author>  
+    </Book> <!-- COMMENT: <Catalogue> child element - 2 - END -->
+</Catalogue> <!-- COMMENT: root element - END -->
